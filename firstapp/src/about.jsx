@@ -4,7 +4,7 @@ import About1 from './about1.jsx'
 import About2 from './about2.jsx'
 import About3 from './about3.jsx'
 
-
+// priyank gupta first react p
 
 export default function about() {
   return (
