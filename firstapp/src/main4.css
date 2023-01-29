@@ -1,0 +1,22 @@
+.main-main3{
+    background-color:rgb(73, 73, 232);
+    width: 100vw;
+    height: 150vh;
+    
+    
+}
+.main4-head{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+.hello
+{
+    display: flex;
+}
+.main-main3-cards{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,16 @@
+.about3{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.about3head{
+    width: 50vw;
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 150px;
+    padding-top: 150px;
+}
+.about3video{
+    padding-top: 50px;
+    padding-right: 80px;
+}

@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    display: flex;
+    padding: 20px;
+    width: 100vw;
+    box-shadow: rgb(0 0 0 / 70%) 0px 0px 15px;
+    overflow: hidden;
+    position: fixed;
+   background-color: white;
+   z-index: 99;
+   
+   
+  
+}
+.logo{
+    background-image:url(../public/img/logotwo.2f9f20b3df841709cc48.webp);
+    background-size: cover;
+    background-size: 80px;
+    background-repeat: no-repeat;
+  padding-right: 50px;
+  width: 10%;
+}
+
+.navlink{
+ 
+    list-style: none;
+    
+   
+    display: flex;
+    padding: 10px 23px;
+   justify-content: space-between;
+  
+ width: 80%;
+   
+}
+.links{
+   
+  display: flex;
+}
+.links a
+{
+    text-decoration: none;
+padding: 10px 50px;
+color: black;
+font-size: large;
+}
+
+
+.btn{
+     display: flex;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+   
+    padding: 10px;
+    
+}

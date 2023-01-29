@@ -1,0 +1,21 @@
+.about1{
+    width: 100vw;
+    height: 60vh;
+    padding-top: 100px;
+    display: flex;
+    background-color: blue;
+}
+.about1_head{
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    width: 50vw;
+    align-items: center;
+    padding-left: 180px;
+    padding-top: 180px;
+}
+.aboutimg1 img{
+    padding-top: 50px;
+    height: 40vh;
+    width: 40vw;
+}

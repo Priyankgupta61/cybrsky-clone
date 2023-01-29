@@ -1,0 +1,23 @@
+.main-main2{
+    
+    width: 100vw;
+    
+    
+}
+.main3-head{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(8, 165, 165);
+    padding-top: 80px;
+    padding-left: 80px;
+}
+.main3-content{
+    font-weight: 200;
+    width: 80vw;
+    padding-top: 50px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+.mainimg2{
+    margin-left: 180px;
+}
